@@ -1,0 +1,25 @@
+# ninja log v5
+0	270	7105151872974832	CMakeFiles/factorial_function.dir/main.cpp.obj	4434c5d6158ceb27
+278	337	7105151873646176	factorial_function.exe	c4ff37ab510c1ec8
+2	275	7105152093565185	CMakeFiles/factorial_function.dir/main.cpp.obj	4434c5d6158ceb27
+275	334	7105152094143610	factorial_function.exe	c4ff37ab510c1ec8
+2	267	7105152213324540	CMakeFiles/factorial_function.dir/main.cpp.obj	4434c5d6158ceb27
+267	326	7105152213881255	factorial_function.exe	c4ff37ab510c1ec8
+2	230	7105152337122246	CMakeFiles/factorial_function.dir/main.cpp.obj	4434c5d6158ceb27
+230	288	7105152337676452	factorial_function.exe	c4ff37ab510c1ec8
+1	230	7105152474932801	CMakeFiles/factorial_function.dir/main.cpp.obj	4434c5d6158ceb27
+230	287	7105152475483427	factorial_function.exe	c4ff37ab510c1ec8
+1	231	7105152536251348	CMakeFiles/factorial_function.dir/main.cpp.obj	4434c5d6158ceb27
+231	289	7105152536812066	factorial_function.exe	c4ff37ab510c1ec8
+2	230	7105152594281555	CMakeFiles/factorial_function.dir/main.cpp.obj	4434c5d6158ceb27
+230	289	7105152594847621	factorial_function.exe	c4ff37ab510c1ec8
+3	242	7105152666872732	CMakeFiles/factorial_function.dir/main.cpp.obj	4434c5d6158ceb27
+242	299	7105152667413654	factorial_function.exe	c4ff37ab510c1ec8
+1	253	7105153530539802	CMakeFiles/factorial_function.dir/main.cpp.obj	4434c5d6158ceb27
+253	321	7105153531246267	factorial_function.exe	c4ff37ab510c1ec8
+2	232	7105153613773727	CMakeFiles/factorial_function.dir/main.cpp.obj	4434c5d6158ceb27
+232	291	7105153614324786	factorial_function.exe	c4ff37ab510c1ec8
+2	234	7105153712394723	CMakeFiles/factorial_function.dir/main.cpp.obj	4434c5d6158ceb27
+235	293	7105153712957966	factorial_function.exe	c4ff37ab510c1ec8
+2	235	7105154932081060	CMakeFiles/factorial_function.dir/main.cpp.obj	4434c5d6158ceb27
+235	297	7105154932683061	factorial_function.exe	c4ff37ab510c1ec8
